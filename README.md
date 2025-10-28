@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadil151&label=Profile%20views&color=0e75b6&style=flat" alt="aadil151" /> </p>
 
-- I’m currently studying **Computer Science at UOB**
+I am a Computer Science Graduate from the University of Birmingham, See some of the projects I have worked on over the years.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
